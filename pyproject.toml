@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graphs_rodyferris"
+version = "0.1.0
+description = "A package for Dijkstra's shortest path algorithm."
+   authors = [
+       { name=Rody Ferris, email= rferris4@msudenver.edu }
+   ]
+   dependencies = []
